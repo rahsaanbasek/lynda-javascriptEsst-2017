@@ -1,0 +1,30 @@
+
+> javaScript notes - Lynda.com -javaScript Esst 2017
+	- HTML markup: content layer
+	- CSS rules: presentation layer
+	- javaScript: interactive/presentation layer
+
+> DOM - index.html
+	- javaScript runs in background to trigger scripts
+	- script lang > run small programs
+
+> javaScript landscape / ECMAscript
+	- ECMAscript 2015(ES6)
+	- BABEL transpiler
+	- up & running with ECMAscript 6 course
+
+> jQuery - library of programs
+
+> AngularJS, ReactJS, VueJS
+	- frameworks run in browser & pull data from server
+
+> NodeJS
+
+> Tools for javaScript development 
+	- code editor
+	- browser with dev tools
+	- helper tools for debugging
+	- Atom / VS code / Sublime
+	- Netbeans / Aptana studio / Eclipse
+	- chrome / Firefox / edge / opera / brave
+
